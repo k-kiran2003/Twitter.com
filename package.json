@@ -20,6 +20,7 @@
     "ejs": "^3.1.10",
     "express": "^4.21.2",
     "node.js": "^0.0.1-security",
-    "nodemon": "^3.1.9"
+    "nodemon": "^3.1.9",
+    "uuid": "^11.1.0"
   }
 }
