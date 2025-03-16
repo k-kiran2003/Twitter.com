@@ -1,0 +1,15 @@
+h1{
+    color: rgb(57, 198, 223);
+};
+.container{
+    margin: 5rem auto;
+    height: 100vh;
+    width: 80vw;
+    border: 2px solid aqua;
+}
+.main{
+    margin: 3px;
+    padding: 2px;
+
+    border: 2px solid rgb(3, 46, 46);
+}
